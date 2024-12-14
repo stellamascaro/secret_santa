@@ -23,7 +23,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  mail (~> 2.8, >= 2.8.1)
+  mail
 
 BUNDLED WITH
    2.4.22
